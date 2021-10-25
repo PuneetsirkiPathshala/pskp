@@ -531,3 +531,12 @@ form input, select, textarea{
     color: black;
     font-weight: bolder;
 }
+
+
+@media screen and (max-width: 760px) {
+    .classes h1{
+        font-size: 70px;
+        text-align: center;
+        color: white;
+    }
+}
